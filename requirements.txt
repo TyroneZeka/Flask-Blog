@@ -1,0 +1,15 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+Flask-Mysqldb
+PyYAML
+pymysql
+Flask-Login
+Flask-wtf
+wtforms
+email_validator
+Flask-Bootstrap
+Flask-admin
+Flask-User
+Flask-BabelEx
